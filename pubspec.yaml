@@ -1,7 +1,7 @@
 name: hex
 description: Simple hex encoder
 version: 1.0.0
-author: Moonspeaker
+author: Subbotin Aleksei <darkandjeweled@gmail.com>
 homepage: https://github.com/Moonspeaker/hex
 
 environment:
