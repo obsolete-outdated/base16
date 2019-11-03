@@ -1,0 +1,8 @@
+name: hex
+description: Simple hex encoder
+version: 1.0.0
+author: Moonspeaker
+homepage:
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
