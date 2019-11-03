@@ -1,5 +1,5 @@
-name: hex
-description: Simple hex encoder
+name: base16
+description: Simple hex (base16) encoder
 version: 1.0.0
 author: Subbotin Aleksei <darkandjeweled@gmail.com>
 homepage: https://github.com/Moonspeaker/hex
