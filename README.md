@@ -1,10 +1,8 @@
 # baase16
 
-Simple base16(hex) encoder.
+Simple base16 (hex) encoder.
 
-Used to encode bytes to semi-readable String format, e.g. to encode bytes of UUID, ObjectID etc.
-
-Why a whole own library? Just to never rewrite what's already written.
+Used to encode bytes to semi-readable String format, e.g. to encode bytes of UUID, ObjectID, etc.
 
 ## Getting Started
 
