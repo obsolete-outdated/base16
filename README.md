@@ -1,4 +1,4 @@
-# baase16
+# base16
 
 Simple base16 (hex) encoder.
 
