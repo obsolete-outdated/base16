@@ -1,11 +1,11 @@
 name: base16
 description: Simple base16 (hex) encoder. Used to encode bytes to semi-readable String format, e.g. to encode bytes of UUID, ObjectID, etc.
-version: 1.0.6
+version: 1.0.8
 author: Subbotin Aleksei <darkandjeweled@gmail.com>
 homepage: https://github.com/Moonspeaker/hex
 
 environment:
-  sdk: ">=2.1.0 <3.0.0"
+  sdk: ">=2.3.0 <3.0.0"
 
 dev_dependencies:
   test: ^1.9.3
