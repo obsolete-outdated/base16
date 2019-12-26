@@ -1,4 +1,4 @@
-## [1.0.8] - Minor
+## [1.0.9] - Minor
 improved comments
 
 ## [1.0.7] - Major refactor
