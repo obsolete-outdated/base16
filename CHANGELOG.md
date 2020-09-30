@@ -1,13 +1,2 @@
-## [1.0.9] - Minor
-improved comments
-
-## [1.0.7] - Major refactor
-functions are now as effective as it can get.
-
- - renamed top level functions to base16*
- - utilized StringBuffer
-
-## [1.0.6] - Minor
-Package info update
-
-## [1.0.0] - Initial release
+## [2.0.1] - Major refactor. No action required
+Implemented using dart:convert api.
